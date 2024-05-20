@@ -1,1 +1,1 @@
-This project is based on joints for how to use joints on given student data.
+This project is based on employee data for how to use joints on given table.
